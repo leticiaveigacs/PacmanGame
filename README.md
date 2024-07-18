@@ -1,4 +1,3 @@
-
 # Jogo Pacman 🎮
 
 Um clone simples do clássico jogo Pacman, desenvolvido com HTML, CSS e JavaScript.
@@ -28,30 +27,30 @@ Este jogo reproduz a mecânica básica do Pacman, onde o jogador controla o Pacm
 
 ## Controles
 
-- ← (Arrow Left) - Move o Pacman para a esquerda.
-- → (Arrow Right) - Move o Pacman para a direita.
-- ↑ (Arrow Up) - Move o Pacman para cima.
-- ↓ (Arrow Down) - Move o Pacman para baixo.
-
+- ← (Seta para a esquerda) - Move o Pacman para a esquerda.
+- → (Seta para a direita) - Move o Pacman para a direita.
+- ↑ (Seta para cima) - Move o Pacman para cima.
+- ↓ (Seta para baixo) - Move o Pacman para baixo.
+- 
 ## Recursos Técnicos
 
 - **Tecnologias Usadas**: HTML, CSS, JavaScript.
 - **Estrutura do Jogo**: Dividido em um grid com diferentes tipos de células (paredes, pontos, fantasmas).
 - **Animação do Pacman**: O Pacman possui uma animação de movimento usando gradiente cônico.
 
-## Demonstração
+## Demonstração 🚀
 
 ![Screenshot do Jogo Pacman](screenshot.png)
 
-## Como Executar Localmente
+## Como Executar Localmente 
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/jogo-pacman.git
+   git clone https://github.com/leticiaveigacs/PacmanGame.git
    ```
 2. Navegue até o diretório do projeto:
    ```
-   cd jogo-pacman
+   cd pacman
    ```
 3. Abra o arquivo `index.html` em seu navegador web.
 
@@ -61,6 +60,3 @@ Este projeto foi inspirado no jogo original Pacman e foi desenvolvido como parte
 
 Divirta-se jogando! 🚀
 
----
-
-Esse README fornece uma visão geral concisa do jogo, como jogar, controles, detalhes técnicos e instruções para execução local. Personalize-o conforme necessário para refletir os detalhes específicos do seu jogo Pacman.
