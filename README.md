@@ -38,9 +38,11 @@ Este jogo reproduz a mecânica básica do Pacman, onde o jogador controla o Pacm
 - **Estrutura do Jogo**: Dividido em um grid com diferentes tipos de células (paredes, pontos, fantasmas).
 - **Animação do Pacman**: O Pacman possui uma animação de movimento usando gradiente cônico.
 
-## Demonstração 🚀
+### Video
 
-![Screenshot do Jogo Pacman](screenshot.png)
+Você pode ver uma demosnstração do jogo:
+
+- [Assista ao vídeo](https://github.com/leticiaveigacs/) 
 
 ## Como Executar Localmente 
 
