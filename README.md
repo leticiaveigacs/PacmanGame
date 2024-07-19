@@ -42,7 +42,7 @@ Este jogo reproduz a mecânica básica do Pacman, onde o jogador controla o Pacm
 
 Você pode ver uma demosnstração do jogo:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/) 
+- [Assista ao vídeo](https://github.com/leticiaveigacs/PacmanGame/issues/1#issue-2418903295) 
 
 ## Como Executar Localmente 
 
