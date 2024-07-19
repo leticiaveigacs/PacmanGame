@@ -1,64 +1,63 @@
-# Jogo Pacman 🎮
+# Pacman Game 🎮
 
-Um clone simples do clássico jogo Pacman, desenvolvido com HTML, CSS e JavaScript.
+A simple clone of the classic Pacman game, developed using HTML, CSS, and JavaScript.
 
-## Visão Geral
+## Overview
 
-Este jogo reproduz a mecânica básica do Pacman, onde o jogador controla o Pacman para comer pontos enquanto evita fantasmas.
+This game replicates the basic mechanics of Pacman, where the player controls Pacman to eat dots while avoiding ghosts.
 
-## Como Jogar 🕹️
+## How to Play 🕹️
 
-1. **Movimento do Pacman**:
-   - Use as setas do teclado para mover o Pacman:
-     - ← (esquerda)
-     - → (direita)
-     - ↑ (cima)
-     - ↓ (baixo)
+1. **Pacman Movement**:
+   - Use the arrow keys to move Pacman:
+     - ← (left)
+     - → (right)
+     - ↑ (up)
+     - ↓ (down)
 
-2. **Objetivo**:
-   - Coma todos os pontos (pac-dots) e power pellets no tabuleiro para ganhar pontos.
-   - Evite os fantasmas; se eles tocarem no Pacman sem estar assustados, o jogo termina.
+2. **Objective**:
+   - Eat all the pac-dots and power pellets on the board to gain points.
+   - Avoid the ghosts; if they touch Pacman while not scared, the game ends.
 
 3. **Power Pellets**:
-   - Quando o Pacman come uma Power Pellet, os fantasmas se tornam comestíveis por um curto período.
+   - When Pacman eats a Power Pellet, the ghosts become edible for a short period.
 
-4. **Final do Jogo**:
-   - O jogo termina quando todos os pontos são coletados ou se um fantasma toca o Pacman sem estar assustado.
+4. **Game Over**:
+   - The game ends when all the dots are collected or if a ghost touches Pacman while not scared.
 
-## Controles
+## Controls
 
-- ← (Seta para a esquerda) - Move o Pacman para a esquerda.
-- → (Seta para a direita) - Move o Pacman para a direita.
-- ↑ (Seta para cima) - Move o Pacman para cima.
-- ↓ (Seta para baixo) - Move o Pacman para baixo.
-- 
-## Recursos Técnicos
+- ← (Left Arrow) - Moves Pacman to the left.
+- → (Right Arrow) - Moves Pacman to the right.
+- ↑ (Up Arrow) - Moves Pacman upwards.
+- ↓ (Down Arrow) - Moves Pacman downwards.
 
-- **Tecnologias Usadas**: HTML, CSS, JavaScript.
-- **Estrutura do Jogo**: Dividido em um grid com diferentes tipos de células (paredes, pontos, fantasmas).
-- **Animação do Pacman**: O Pacman possui uma animação de movimento usando gradiente cônico.
+## Technical Features
+
+- **Technologies Used**: HTML, CSS, JavaScript.
+- **Game Structure**: Divided into a grid with different types of cells (walls, dots, ghosts).
+- **Pacman Animation**: Pacman has a movement animation using conic gradient.
 
 ### Video
 
-Você pode ver uma demosnstração do jogo:
+You can watch a demonstration of the game:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/PacmanGame/issues/1#issue-2418903295) 
+- [Watch the video](https://github.com/leticiaveigacs/PacmanGame/issues/1#issue-2418903295)
 
-## Como Executar Localmente 
+## How to Run Locally
 
-1. Clone este repositório:
+1. Clone this repository:
    ```
    git clone https://github.com/leticiaveigacs/PacmanGame.git
    ```
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```
    cd pacman
    ```
-3. Abra o arquivo `index.html` em seu navegador web.
+3. Open the `index.html` file in your web browser.
 
-## Agradecimentos
+## Acknowledgements
 
-Este projeto foi inspirado no jogo original Pacman e foi desenvolvido como parte de um aprendizado em programação front-end.
+This project was inspired by the original Pacman game and was developed as part of learning front-end programming.
 
-Divirta-se jogando! 🚀
-
+Enjoy playing! 🚀
