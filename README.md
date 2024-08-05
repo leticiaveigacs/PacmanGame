@@ -2,6 +2,8 @@
 
 A simple clone of the classic Pacman game, developed using HTML, CSS, and JavaScript.
 
+[Play here ](https://pacman-game-black.vercel.app/pacman/index.html)
+
 ## Overview
 
 This game replicates the basic mechanics of Pacman, where the player controls Pacman to eat dots while avoiding ghosts.
